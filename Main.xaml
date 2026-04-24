@@ -115,6 +115,7 @@
       <uasc:AppendItemToCollection.Items>
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
           <InArgument x:TypeArguments="x:String">Portland</InArgument>
+          <InArgument x:TypeArguments="x:String">Fort Worth</InArgument>
         </scg:List>
       </uasc:AppendItemToCollection.Items>
       <sap:WorkflowViewStateService.ViewState>
