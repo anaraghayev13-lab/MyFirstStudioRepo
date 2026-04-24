@@ -107,6 +107,7 @@
           <InArgument x:TypeArguments="x:String">Manchester</InArgument>
           <InArgument x:TypeArguments="x:String">Bristol</InArgument>
           <InArgument x:TypeArguments="x:String">Edinburgh</InArgument>
+          <InArgument x:TypeArguments="x:String">Liverpool</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
@@ -114,6 +115,7 @@
       <uasc:AppendItemToCollection.Items>
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
           <InArgument x:TypeArguments="x:String">Portland</InArgument>
+          <InArgument x:TypeArguments="x:String">Fort Worth</InArgument>
         </scg:List>
       </uasc:AppendItemToCollection.Items>
       <sap:WorkflowViewStateService.ViewState>
